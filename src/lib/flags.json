@@ -1,0 +1,1154 @@
+[
+  {
+    "code": "DZ",
+    "country": "Algeria",
+    "fidelity": "approx",
+    "bits": 64,
+    "bytes": 8,
+    "base64": "MmbbRQjTSgg=",
+    "note": "Generic crescent geometry; star is positioned in the crescent opening."
+  },
+  {
+    "code": "AM",
+    "country": "Armenia",
+    "fidelity": "high",
+    "bits": 17,
+    "bytes": 3,
+    "base64": "hPgA",
+    "note": ""
+  },
+  {
+    "code": "AT",
+    "country": "Austria",
+    "fidelity": "high",
+    "bits": 14,
+    "bytes": 2,
+    "base64": "QnA=",
+    "note": ""
+  },
+  {
+    "code": "AZ",
+    "country": "Azerbaijan",
+    "fidelity": "approx",
+    "bits": 89,
+    "bytes": 12,
+    "base64": "tDOf4xraJM9powIA",
+    "note": "Generic crescent."
+  },
+  {
+    "code": "BS",
+    "country": "Bahamas",
+    "fidelity": "high",
+    "bits": 50,
+    "bytes": 7,
+    "base64": "nhWvTmdkAA==",
+    "note": ""
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "fidelity": "high",
+    "bits": 43,
+    "bytes": 6,
+    "base64": "yxKqZ0Kg",
+    "note": ""
+  },
+  {
+    "code": "BE",
+    "country": "Belgium",
+    "fidelity": "high",
+    "bits": 22,
+    "bytes": 3,
+    "base64": "+XUE",
+    "note": ""
+  },
+  {
+    "code": "BJ",
+    "country": "Benin",
+    "fidelity": "high",
+    "bits": 47,
+    "bytes": 6,
+    "base64": "KaZvYAM+",
+    "note": ""
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "fidelity": "high",
+    "bits": 21,
+    "bytes": 3,
+    "base64": "+hcA",
+    "note": ""
+  },
+  {
+    "code": "BW",
+    "country": "Botswana",
+    "fidelity": "approx",
+    "bits": 47,
+    "bytes": 6,
+    "base64": "POtzL2vI",
+    "note": "Band border thickness is renderer-defined."
+  },
+  {
+    "code": "BG",
+    "country": "Bulgaria",
+    "fidelity": "high",
+    "bits": 16,
+    "bytes": 2,
+    "base64": "w4A=",
+    "note": ""
+  },
+  {
+    "code": "BF",
+    "country": "Burkina Faso",
+    "fidelity": "high",
+    "bits": 25,
+    "bytes": 4,
+    "base64": "DWZGAA==",
+    "note": ""
+  },
+  {
+    "code": "BI",
+    "country": "Burundi",
+    "fidelity": "approx",
+    "bits": 201,
+    "bytes": 26,
+    "base64": "xh+W/AB8EIb8D//wh3ZWiXKvmg2I6MSMYgA=",
+    "note": "Generic six-point stars approximate the official outlined stars."
+  },
+  {
+    "code": "CV",
+    "country": "Cabo Verde",
+    "fidelity": "high",
+    "bits": 93,
+    "bytes": 12,
+    "base64": "+NEs/4oZ1jjZUyMA",
+    "note": ""
+  },
+  {
+    "code": "CM",
+    "country": "Cameroon",
+    "fidelity": "high",
+    "bits": 23,
+    "bytes": 3,
+    "base64": "MWMY",
+    "note": ""
+  },
+  {
+    "code": "CF",
+    "country": "Central African Republic",
+    "fidelity": "high",
+    "bits": 109,
+    "bytes": 14,
+    "base64": "zo6mf4Qbb3SAn4yYhCg=",
+    "note": ""
+  },
+  {
+    "code": "TD",
+    "country": "Chad",
+    "fidelity": "high",
+    "bits": 14,
+    "bytes": 2,
+    "base64": "JQQ=",
+    "note": ""
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "fidelity": "high",
+    "bits": 52,
+    "bytes": 7,
+    "base64": "EmZrqhBU0A==",
+    "note": ""
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "fidelity": "high",
+    "bits": 132,
+    "bytes": 17,
+    "base64": "RZRfFFRMSSKKzxQWuKCWxfA=",
+    "note": ""
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "fidelity": "high",
+    "bits": 35,
+    "bytes": 5,
+    "base64": "LA/5leA=",
+    "note": ""
+  },
+  {
+    "code": "KM",
+    "country": "Comoros",
+    "fidelity": "approx",
+    "bits": 184,
+    "bytes": 23,
+    "base64": "zqk3P8INs9sLKYsEwviCphFbCLKEW0I=",
+    "note": "Generic crescent."
+  },
+  {
+    "code": "CG",
+    "country": "Republic of the Congo",
+    "fidelity": "high",
+    "bits": 41,
+    "bytes": 6,
+    "base64": "MXLafNOA",
+    "note": ""
+  },
+  {
+    "code": "CI",
+    "country": "Côte d'Ivoire",
+    "fidelity": "high",
+    "bits": 16,
+    "bytes": 2,
+    "base64": "PuE=",
+    "note": ""
+  },
+  {
+    "code": "CU",
+    "country": "Cuba",
+    "fidelity": "high",
+    "bits": 76,
+    "bytes": 10,
+    "base64": "kTPzy52wiTEgkA==",
+    "note": ""
+  },
+  {
+    "code": "CZ",
+    "country": "Czechia",
+    "fidelity": "high",
+    "bits": 33,
+    "bytes": 5,
+    "base64": "EkzPCAA=",
+    "note": ""
+  },
+  {
+    "code": "DK",
+    "country": "Denmark",
+    "fidelity": "high",
+    "bits": 37,
+    "bytes": 5,
+    "base64": "/YZcpGA=",
+    "note": ""
+  },
+  {
+    "code": "CD",
+    "country": "DR Congo",
+    "fidelity": "high",
+    "bits": 78,
+    "bytes": 10,
+    "base64": "3eV4uXl5o0xCsA==",
+    "note": ""
+  },
+  {
+    "code": "DJ",
+    "country": "Djibouti",
+    "fidelity": "high",
+    "bits": 79,
+    "bytes": 10,
+    "base64": "bzrZMzLKEaY0DA==",
+    "note": ""
+  },
+  {
+    "code": "EE",
+    "country": "Estonia",
+    "fidelity": "high",
+    "bits": 23,
+    "bytes": 3,
+    "base64": "/ycg",
+    "note": ""
+  },
+  {
+    "code": "FI",
+    "country": "Finland",
+    "fidelity": "high",
+    "bits": 37,
+    "bytes": 5,
+    "base64": "6zJcqFg=",
+    "note": ""
+  },
+  {
+    "code": "FR",
+    "country": "France",
+    "fidelity": "high",
+    "bits": 13,
+    "bytes": 2,
+    "base64": "Igg=",
+    "note": ""
+  },
+  {
+    "code": "GA",
+    "country": "Gabon",
+    "fidelity": "high",
+    "bits": 20,
+    "bytes": 3,
+    "base64": "3awA",
+    "note": ""
+  },
+  {
+    "code": "GM",
+    "country": "Gambia",
+    "fidelity": "high",
+    "bits": 58,
+    "bytes": 8,
+    "base64": "YZj/ihnEeYA=",
+    "note": ""
+  },
+  {
+    "code": "DE",
+    "country": "Germany",
+    "fidelity": "high",
+    "bits": 18,
+    "bytes": 3,
+    "base64": "xxQA",
+    "note": ""
+  },
+  {
+    "code": "GH",
+    "country": "Ghana",
+    "fidelity": "high",
+    "bits": 46,
+    "bytes": 6,
+    "base64": "Yu6f4xow",
+    "note": ""
+  },
+  {
+    "code": "GR",
+    "country": "Greece",
+    "fidelity": "high",
+    "bits": 55,
+    "bytes": 7,
+    "base64": "Uc/NpZHtTA==",
+    "note": ""
+  },
+  {
+    "code": "GN",
+    "country": "Guinea",
+    "fidelity": "high",
+    "bits": 14,
+    "bytes": 2,
+    "base64": "C4Q=",
+    "note": ""
+  },
+  {
+    "code": "GW",
+    "country": "Guinea-Bissau",
+    "fidelity": "high",
+    "bits": 73,
+    "bytes": 10,
+    "base64": "tcdmb0ACvxqmAA==",
+    "note": ""
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "fidelity": "high",
+    "bits": 192,
+    "bytes": 24,
+    "base64": "zs3jy30APwB/fgC7AHd/ALKANb/AaEAZ",
+    "note": ""
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "fidelity": "high",
+    "bits": 120,
+    "bytes": 15,
+    "base64": "qM5B8UyESEIk4RHMiRnE",
+    "note": ""
+  },
+  {
+    "code": "HU",
+    "country": "Hungary",
+    "fidelity": "high",
+    "bits": 14,
+    "bytes": 2,
+    "base64": "g4A=",
+    "note": ""
+  },
+  {
+    "code": "IS",
+    "country": "Iceland",
+    "fidelity": "high",
+    "bits": 41,
+    "bytes": 6,
+    "base64": "8IMuXjWA",
+    "note": ""
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "fidelity": "high",
+    "bits": 11,
+    "bytes": 2,
+    "base64": "QgA=",
+    "note": ""
+  },
+  {
+    "code": "IE",
+    "country": "Ireland",
+    "fidelity": "high",
+    "bits": 17,
+    "bytes": 3,
+    "base64": "mfiA",
+    "note": ""
+  },
+  {
+    "code": "IL",
+    "country": "Israel",
+    "fidelity": "approx",
+    "bits": 71,
+    "bytes": 9,
+    "base64": "6TJ/xTwjOTiQ",
+    "note": "Six-point star primitive approximates the Star of David."
+  },
+  {
+    "code": "IT",
+    "country": "Italy",
+    "fidelity": "high",
+    "bits": 13,
+    "bytes": 2,
+    "base64": "Mgg=",
+    "note": ""
+  },
+  {
+    "code": "JM",
+    "country": "Jamaica",
+    "fidelity": "high",
+    "bits": 117,
+    "bytes": 15,
+    "base64": "na8t+AD4IQ34H//hDu0Y",
+    "note": ""
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "fidelity": "high",
+    "bits": 29,
+    "bytes": 4,
+    "base64": "SSqimA==",
+    "note": ""
+  },
+  {
+    "code": "JO",
+    "country": "Jordan",
+    "fidelity": "high",
+    "bits": 87,
+    "bytes": 11,
+    "base64": "tzjP8Y2eEJymLAg=",
+    "note": ""
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "fidelity": "high",
+    "bits": 36,
+    "bytes": 5,
+    "base64": "CM8rRMA=",
+    "note": ""
+  },
+  {
+    "code": "LV",
+    "country": "Latvia",
+    "fidelity": "high",
+    "bits": 32,
+    "bytes": 4,
+    "base64": "r0Mp/A==",
+    "note": ""
+  },
+  {
+    "code": "LR",
+    "country": "Liberia",
+    "fidelity": "high",
+    "bits": 66,
+    "bytes": 9,
+    "base64": "2DM/O12OiVTA",
+    "note": ""
+  },
+  {
+    "code": "LY",
+    "country": "Libya",
+    "fidelity": "approx",
+    "bits": 96,
+    "bytes": 12,
+    "base64": "sdnP8Y1tM+B400YD",
+    "note": "Generic crescent."
+  },
+  {
+    "code": "LT",
+    "country": "Lithuania",
+    "fidelity": "high",
+    "bits": 17,
+    "bytes": 3,
+    "base64": "xcAA",
+    "note": ""
+  },
+  {
+    "code": "LU",
+    "country": "Luxembourg",
+    "fidelity": "high",
+    "bits": 28,
+    "bytes": 4,
+    "base64": "wPnWAA==",
+    "note": ""
+  },
+  {
+    "code": "MG",
+    "country": "Madagascar",
+    "fidelity": "high",
+    "bits": 46,
+    "bytes": 6,
+    "base64": "DMzewAV8",
+    "note": ""
+  },
+  {
+    "code": "MW",
+    "country": "Malawi",
+    "fidelity": "approx",
+    "bits": 121,
+    "bytes": 16,
+    "base64": "ONyu8PyaCl70BX1b2Cv1AA==",
+    "note": "Generic sun, clipped procedurally by later stripes."
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "fidelity": "approx",
+    "bits": 117,
+    "bytes": 15,
+    "base64": "sMvPy1YStpjpRPx2mUkg",
+    "note": "Generic crescent; 14-point star is represented."
+  },
+  {
+    "code": "ML",
+    "country": "Mali",
+    "fidelity": "high",
+    "bits": 14,
+    "bytes": 2,
+    "base64": "NQQ=",
+    "note": ""
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "fidelity": "approx",
+    "bits": 54,
+    "bytes": 7,
+    "base64": "DOW61hbRLA==",
+    "note": "Generic crescent."
+  },
+  {
+    "code": "MH",
+    "country": "Marshall Islands",
+    "fidelity": "approx",
+    "bits": 146,
+    "bytes": 19,
+    "base64": "2T7y34Fvm+zfwU+L5p+GNMYxQA==",
+    "note": "Tapered diagonal rays approximated by triangles."
+  },
+  {
+    "code": "MR",
+    "country": "Mauritania",
+    "fidelity": "approx",
+    "bits": 87,
+    "bytes": 11,
+    "base64": "DXP+bNto5ZGmgow=",
+    "note": "Generic crescent; orientation and 1:3:1 field proportions follow the current construction."
+  },
+  {
+    "code": "MU",
+    "country": "Mauritius",
+    "fidelity": "high",
+    "bits": 19,
+    "bytes": 3,
+    "base64": "YlwA",
+    "note": ""
+  },
+  {
+    "code": "FM",
+    "country": "Micronesia",
+    "fidelity": "high",
+    "bits": 128,
+    "bytes": 16,
+    "base64": "2vOsyi+IgmZSE1IWmwuE3A==",
+    "note": ""
+  },
+  {
+    "code": "MC",
+    "country": "Monaco",
+    "fidelity": "high",
+    "bits": 17,
+    "bytes": 3,
+    "base64": "9QgA",
+    "note": ""
+  },
+  {
+    "code": "MA",
+    "country": "Morocco",
+    "fidelity": "approx",
+    "bits": 31,
+    "bytes": 4,
+    "base64": "RpQ4lg==",
+    "note": "Bordered five-point star approximates the green pentagram."
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "fidelity": "high",
+    "bits": 54,
+    "bytes": 7,
+    "base64": "a4Z/jGjRVA==",
+    "note": ""
+  },
+  {
+    "code": "NA",
+    "country": "Namibia",
+    "fidelity": "approx",
+    "bits": 85,
+    "bytes": 11,
+    "base64": "dMN5bL5dNc6YhjA=",
+    "note": "Generic sun."
+  },
+  {
+    "code": "NR",
+    "country": "Nauru",
+    "fidelity": "high",
+    "bits": 80,
+    "bytes": 10,
+    "base64": "krlvQHfHPtMiyg==",
+    "note": ""
+  },
+  {
+    "code": "NL",
+    "country": "Netherlands",
+    "fidelity": "high",
+    "bits": 13,
+    "bytes": 2,
+    "base64": "BgA=",
+    "note": ""
+  },
+  {
+    "code": "NZ",
+    "country": "New Zealand",
+    "fidelity": "high",
+    "bits": 113,
+    "bytes": 15,
+    "base64": "kHL6i/xFzRtMjUbGvmQA",
+    "note": ""
+  },
+  {
+    "code": "NE",
+    "country": "Niger",
+    "fidelity": "high",
+    "bits": 34,
+    "bytes": 5,
+    "base64": "PuhREkA=",
+    "note": "Uses the common 2:3 rectangular convention; Nigerien law does not prescribe a flag ratio."
+  },
+  {
+    "code": "NG",
+    "country": "Nigeria",
+    "fidelity": "high",
+    "bits": 16,
+    "bytes": 2,
+    "base64": "rJ0=",
+    "note": ""
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "fidelity": "high",
+    "bits": 114,
+    "bytes": 15,
+    "base64": "kTP+KNcLUapMqDo0yoJA",
+    "note": ""
+  },
+  {
+    "code": "NO",
+    "country": "Norway",
+    "fidelity": "high",
+    "bits": 41,
+    "bytes": 6,
+    "base64": "6CMuXkWA",
+    "note": ""
+  },
+  {
+    "code": "PW",
+    "country": "Palau",
+    "fidelity": "high",
+    "bits": 57,
+    "bytes": 8,
+    "base64": "1edayqmdBgA=",
+    "note": ""
+  },
+  {
+    "code": "PS",
+    "country": "Palestine",
+    "fidelity": "high",
+    "bits": 55,
+    "bytes": 7,
+    "base64": "tzif4xs8IA==",
+    "note": ""
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "fidelity": "high",
+    "bits": 133,
+    "bytes": 17,
+    "base64": "EnlvUAQhvYIQhGmQhESa90A=",
+    "note": ""
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "fidelity": "approx",
+    "bits": 107,
+    "bytes": 14,
+    "base64": "WeW9ABH7U84T6KeyzEA=",
+    "note": "Generic crescent outline; official placement, scale and diagonal orientation are approximated by Unit5/Angle4."
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "fidelity": "high",
+    "bits": 14,
+    "bytes": 2,
+    "base64": "QnQ=",
+    "note": ""
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "fidelity": "approx",
+    "bits": 150,
+    "bytes": 19,
+    "base64": "tBvMywhd4jTEgSN8wRRA9iNhEA==",
+    "note": "Generic eight-ray sun omits detailed ray geometry."
+  },
+  {
+    "code": "PL",
+    "country": "Poland",
+    "fidelity": "high",
+    "bits": 15,
+    "bytes": 2,
+    "base64": "1IA=",
+    "note": ""
+  },
+  {
+    "code": "RO",
+    "country": "Romania",
+    "fidelity": "high",
+    "bits": 14,
+    "bytes": 2,
+    "base64": "JQQ=",
+    "note": ""
+  },
+  {
+    "code": "RU",
+    "country": "Russia",
+    "fidelity": "high",
+    "bits": 13,
+    "bytes": 2,
+    "base64": "GAA=",
+    "note": ""
+  },
+  {
+    "code": "RW",
+    "country": "Rwanda",
+    "fidelity": "approx",
+    "bits": 70,
+    "bytes": 9,
+    "base64": "JdP+ZX3aTaOU",
+    "note": "Generic 24-ray sun."
+  },
+  {
+    "code": "KN",
+    "country": "Saint Kitts and Nevis",
+    "fidelity": "high",
+    "bits": 114,
+    "bytes": 15,
+    "base64": "djq8tl8umjvkVWmVk0yA",
+    "note": ""
+  },
+  {
+    "code": "LC",
+    "country": "Saint Lucia",
+    "fidelity": "high",
+    "bits": 156,
+    "bytes": 20,
+    "base64": "t51nry32BkZvnfoHViuN/g9eaZA=",
+    "note": ""
+  },
+  {
+    "code": "VC",
+    "country": "Saint Vincent and the Grenadines",
+    "fidelity": "high",
+    "bits": 108,
+    "bytes": 14,
+    "base64": "JdP/bL3t8zmzItmQnMA=",
+    "note": ""
+  },
+  {
+    "code": "WS",
+    "country": "Samoa",
+    "fidelity": "high",
+    "bits": 138,
+    "bytes": 18,
+    "base64": "hHLVhCN8UckRR4h1RCHiJXCA",
+    "note": ""
+  },
+  {
+    "code": "ST",
+    "country": "São Tomé and Príncipe",
+    "fidelity": "high",
+    "bits": 95,
+    "bytes": 12,
+    "base64": "tqdnmVUI3yPhGrCM",
+    "note": ""
+  },
+  {
+    "code": "SN",
+    "country": "Senegal",
+    "fidelity": "high",
+    "bits": 32,
+    "bytes": 4,
+    "base64": "NSMERQ==",
+    "note": ""
+  },
+  {
+    "code": "SC",
+    "country": "Seychelles",
+    "fidelity": "approx",
+    "bits": 189,
+    "bytes": 24,
+    "base64": "ulHeW+g+oEQb8D8QYBv4H8A+zf4P/Z/4",
+    "note": "Unit5 triangular decomposition approximates the official radiating polygons."
+  },
+  {
+    "code": "SL",
+    "country": "Sierra Leone",
+    "fidelity": "high",
+    "bits": 14,
+    "bytes": 2,
+    "base64": "MwA=",
+    "note": ""
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "fidelity": "approx",
+    "bits": 144,
+    "bytes": 18,
+    "base64": "Q4WpjoXF8UkkZZ4ylRjqjHPG",
+    "note": "Generic crescent; emblem dimensions follow the 1959 construction diagram."
+  },
+  {
+    "code": "SB",
+    "country": "Solomon Islands",
+    "fidelity": "high",
+    "bits": 152,
+    "bytes": 19,
+    "base64": "tNXlsvkijfFDJEMSIU0QaYhkxA==",
+    "note": ""
+  },
+  {
+    "code": "SO",
+    "country": "Somalia",
+    "fidelity": "high",
+    "bits": 42,
+    "bytes": 6,
+    "base64": "XnWZRRIA",
+    "note": ""
+  },
+  {
+    "code": "SS",
+    "country": "South Sudan",
+    "fidelity": "high",
+    "bits": 114,
+    "bytes": 15,
+    "base64": "vuTS5/xRuN15sIR0xIEA",
+    "note": ""
+  },
+  {
+    "code": "SD",
+    "country": "Sudan",
+    "fidelity": "high",
+    "bits": 55,
+    "bytes": 7,
+    "base64": "sPaf4xs8IA==",
+    "note": ""
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "fidelity": "high",
+    "bits": 73,
+    "bytes": 10,
+    "base64": "bJZ/xROIxRojgA==",
+    "note": ""
+  },
+  {
+    "code": "SE",
+    "country": "Sweden",
+    "fidelity": "high",
+    "bits": 36,
+    "bytes": 5,
+    "base64": "1Sy5TMA=",
+    "note": ""
+  },
+  {
+    "code": "CH",
+    "country": "Switzerland",
+    "fidelity": "high",
+    "bits": 40,
+    "bytes": 5,
+    "base64": "5Qyv1FM=",
+    "note": ""
+  },
+  {
+    "code": "SY",
+    "country": "Syria",
+    "fidelity": "high",
+    "bits": 105,
+    "bytes": 14,
+    "base64": "bPE/xjRvmXCVCEqkJQA=",
+    "note": ""
+  },
+  {
+    "code": "TZ",
+    "country": "Tanzania",
+    "fidelity": "high",
+    "bits": 50,
+    "bytes": 7,
+    "base64": "bTrlsvl5gA==",
+    "note": ""
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "fidelity": "high",
+    "bits": 18,
+    "bytes": 3,
+    "base64": "Bh8A",
+    "note": ""
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "fidelity": "high",
+    "bits": 135,
+    "bytes": 17,
+    "base64": "sXnlvoAA/CG/AAD6oRpxwV4=",
+    "note": ""
+  },
+  {
+    "code": "TG",
+    "country": "Togo",
+    "fidelity": "high",
+    "bits": 77,
+    "bytes": 10,
+    "base64": "87Uc/PLqsnGqiA==",
+    "note": ""
+  },
+  {
+    "code": "TO",
+    "country": "Tonga",
+    "fidelity": "high",
+    "bits": 52,
+    "bytes": 7,
+    "base64": "octboXxVcA==",
+    "note": ""
+  },
+  {
+    "code": "TT",
+    "country": "Trinidad and Tobago",
+    "fidelity": "high",
+    "bits": 36,
+    "bytes": 5,
+    "base64": "wcy9XmA=",
+    "note": ""
+  },
+  {
+    "code": "TN",
+    "country": "Tunisia",
+    "fidelity": "approx",
+    "bits": 86,
+    "bytes": 11,
+    "base64": "Q8qooWJnwRBNGAw=",
+    "note": "Generic crescent."
+  },
+  {
+    "code": "TR",
+    "country": "Turkey",
+    "fidelity": "approx",
+    "bits": 68,
+    "bytes": 9,
+    "base64": "Q5WpmQXFNCBA",
+    "note": "Generic crescent."
+  },
+  {
+    "code": "TV",
+    "country": "Tuvalu",
+    "fidelity": "high",
+    "bits": 209,
+    "bytes": 27,
+    "base64": "rzrXL6i+EpmhYRC2yFiELc4VrQpUhTfCiuEA",
+    "note": ""
+  },
+  {
+    "code": "AE",
+    "country": "United Arab Emirates",
+    "fidelity": "high",
+    "bits": 68,
+    "bytes": 9,
+    "base64": "tnif4xt7ABHw",
+    "note": ""
+  },
+  {
+    "code": "GB",
+    "country": "United Kingdom",
+    "fidelity": "high",
+    "bits": 18,
+    "bytes": 3,
+    "base64": "kR8A",
+    "note": ""
+  },
+  {
+    "code": "UA",
+    "country": "Ukraine",
+    "fidelity": "high",
+    "bits": 13,
+    "bytes": 2,
+    "base64": "UoA=",
+    "note": ""
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "fidelity": "approx",
+    "bits": 66,
+    "bytes": 9,
+    "base64": "GXPzaXRu7VTA",
+    "note": "Generic 32-ray sun omits the Sun of May face."
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "fidelity": "high",
+    "bits": 56,
+    "bytes": 7,
+    "base64": "2DM/GuyMTg==",
+    "note": ""
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "fidelity": "high",
+    "bits": 30,
+    "bytes": 4,
+    "base64": "RZRRTA==",
+    "note": ""
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "fidelity": "approx",
+    "bits": 58,
+    "bytes": 8,
+    "base64": "08rzZy7tEcA=",
+    "note": "Generic 32-ray sun omits the Sun of May face."
+  },
+  {
+    "code": "AU",
+    "country": "Australia",
+    "fidelity": "high",
+    "bits": 157,
+    "bytes": 20,
+    "base64": "qPL6nXxSLSrHjZbGtGNNkaKbNBA=",
+    "note": ""
+  },
+  {
+    "code": "BH",
+    "country": "Bahrain",
+    "fidelity": "high",
+    "bits": 244,
+    "bytes": 31,
+    "base64": "yH+t6AB/784FjObfnMtJ2b87FwPPfnmux878+V8P8A==",
+    "note": ""
+  },
+  {
+    "code": "BA",
+    "country": "Bosnia and Herzegovina",
+    "fidelity": "high",
+    "bits": 231,
+    "bytes": 29,
+    "base64": "krlvyAYBj8b4SKCcck5KJy2TmwnPnOjedPc6v5w=",
+    "note": ""
+  },
+  {
+    "code": "ET",
+    "country": "Ethiopia",
+    "fidelity": "approx",
+    "bits": 77,
+    "bytes": 10,
+    "base64": "tqTP8Y1aJkdiOA==",
+    "note": "Generic bordered star approximates the radiating pentagram emblem."
+  },
+  {
+    "code": "GE",
+    "country": "Georgia",
+    "fidelity": "high",
+    "bits": 118,
+    "bytes": 15,
+    "base64": "SZdU1/viComaRMLeZq8w",
+    "note": ""
+  },
+  {
+    "code": "KW",
+    "country": "Kuwait",
+    "fidelity": "high",
+    "bits": 150,
+    "bytes": 19,
+    "base64": "tk7n+MbfwAQoCt7ApCt/BVFQfA==",
+    "note": ""
+  },
+  {
+    "code": "MK",
+    "country": "North Macedonia",
+    "fidelity": "approx",
+    "bits": 352,
+    "bytes": 44,
+    "base64": "ov5Fv3wAwE9/CH2fnv4PYCYN/CDPz/v3OAAoN/F2gfBv3RB8v9/GOv//VEY=",
+    "note": "Ray widths are Unit5 approximations of the official sunburst."
+  },
+  {
+    "code": "QA",
+    "country": "Qatar",
+    "fidelity": "high",
+    "bits": 420,
+    "bytes": 53,
+    "base64": "73oZfyregAj+/QBYkD36BrKg+/QdaUK36FLYh2/Q5cER36Irmiu/RVdkY36ML0jm/RxfUfA=",
+    "note": ""
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "fidelity": "approx",
+    "bits": 321,
+    "bytes": 41,
+    "base64": "tB2f8UGOGPGWkwzEifDBiQjkhIJCKaEc0JBoSTQinhGPCOeEg8JR4QA=",
+    "note": "Generic crescent; thin stripe proportions are quantized."
+  },
+  {
+    "code": "YE",
+    "country": "Yemen",
+    "fidelity": "high",
+    "bits": 14,
+    "bytes": 2,
+    "base64": "B4A=",
+    "note": ""
+  }
+]
