@@ -45,7 +45,6 @@ function App() {
       };
     }).sort((a, b) => a.bitLength - b.bitLength);
   }, []);
-  window.flags = allFlags;
 
   return (
     <div style={{}}>
